@@ -1,2 +1,4 @@
 mlflow
 seaborn
+scikit-learn
+matplotlib
